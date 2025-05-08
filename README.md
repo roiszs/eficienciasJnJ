@@ -22,26 +22,26 @@ Gráficos: Chart.js (o D3.js)
 # 📥 Instalación
 Clona este repositorio:
 bash
-
 ```git clone https://github.com/tu_usuario/proyecto-kpi.git```
+
 Navega al directorio del proyecto:
 bash
-
 ```cd proyecto-kpi```
+
 Instala las dependencias del backend:
 bash
-
 ```cd backend```
+
 npm install
+
 Instala las dependencias del frontend:
 bash
-
 ```cd frontend```
+
 ```npm install```
 Configura tu base de datos y asegúrate de que el servidor esté en funcionamiento.
 Inicia el servidor:
 bash
-
 ```npm start```
 
 # 📈 Contribuciones
