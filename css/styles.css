@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #d30101;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -17,7 +17,7 @@ main {
     padding: 20px;
     background: white;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(2, 0, 0, 0.1);
 }
 
 form {
