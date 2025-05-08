@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicación de KPIs</title>
+    <link rel="stylesheet" href="/css/styles.css"> 
+    </head>
+<body>
+    <header>
+        <h1>Bienvenido a la Aplicación de KPIs</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Ingresar KPIs</h2>
+            <form id="kpiForm">
+                <label for="asociado">Asociado:</label>
+                <input type="text" id="asociado" name="asociado" required>
+
+                <label for="piezas">Cantidad de Piezas:</label>
+                <input type="number" id="piezas" name="piezas" required>
+
+                <label for="tiemposInactividad">Tiempos de Inactividad (min):</label>
+                <input type="number" id="tiemposInactividad" name="tiemposInactividad" required>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+        <section id="resultados">
+            <h2>Resultados</h2>
+            <!-- Aquí se mostrarán los resultados calculados -->
+        </section>
+    </main>
+    <script src="scripts.js"></script> <!-- Enlaza JavaScript -->
+</body>
+</html>
