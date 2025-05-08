@@ -1,1 +1,2 @@
-# eficienciasJnJ
+# Proyecto de Gestion de Eficiencias.
+Este proyecto es una aplicación web diseñada para que los supervisores de una maquila puedan registrar y gestionar los Indicadores Clave de Desempeño (KPIs) relacionados con la producción y la eficiencia de los asociados en cada línea de producción. La aplicación permite ingresar datos sobre la cantidad de piezas producidas, los tiempos de inactividad y calcular automáticamente la eficiencia general de cada asociado. Además, proporciona una visualización gráfica de las tendencias semanales de producción y eficiencia.
